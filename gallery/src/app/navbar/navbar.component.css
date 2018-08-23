@@ -1,0 +1,21 @@
+nav{
+    font-family: 'Playfair Display', serif;
+    background-color:grey;
+    position:fixed;
+    top:0;
+    left:0;
+    width:100%;
+}
+
+.logo{
+    color:white;
+    font-family: 'Playfair Display', serif;
+
+    font-size:1.5em;
+}
+
+ul.nav a{
+
+}
+
+ul.nav a:hover{}
